@@ -100,4 +100,4 @@ To get the full project running locally, you'll need to set up both the backend 
 
 ---
 
-This project was built late one night in Bhopal, Madhya Pradesh, with the goal of making opportunities more accessible to everyone.
+This project was built late one night in Bhopal, Madhya Pradesh, as a part of SIH project 
