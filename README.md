@@ -14,6 +14,7 @@ PMIO is a full-stack web application designed to bridge the gap between rural yo
 
 ---
 
+
 ## 🛠️ Technology Stack
 
 The project is a modern full-stack application composed of a React frontend and a FastAPI backend.
@@ -27,6 +28,8 @@ The project is a modern full-stack application composed of a React frontend and 
 | **Voice API** | Web Speech API (`react-speech-recognition`)   |
 
 ---
+## Snapshots:
+https://drive.google.com/drive/folders/1TZ9i1Nc9T3HrXNdiVkUrkLO_0kOgSmG9?usp=drive_link
 
 ## 🚀 Getting Started
 
